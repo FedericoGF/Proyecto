@@ -1,3 +1,3 @@
 # Hello World!
-## Esta proyecto es nuestro primer prueba git.
-NADA.
+## Este proyecto es nuesto primer prueba git.
+NADE.
